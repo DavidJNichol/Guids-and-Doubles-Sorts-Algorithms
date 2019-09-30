@@ -1,0 +1,11 @@
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\bin\Debug\netcoreapp2.1\InClassAlgorithmsD1.deps.json
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\bin\Debug\netcoreapp2.1\InClassAlgorithmsD1.runtimeconfig.json
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\bin\Debug\netcoreapp2.1\InClassAlgorithmsD1.runtimeconfig.dev.json
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\bin\Debug\netcoreapp2.1\InClassAlgorithmsD1.dll
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\bin\Debug\netcoreapp2.1\InClassAlgorithmsD1.pdb
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\obj\Debug\netcoreapp2.1\InClassAlgorithmsD1.csprojAssemblyReference.cache
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\obj\Debug\netcoreapp2.1\InClassAlgorithmsD1.csproj.CoreCompileInputs.cache
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\obj\Debug\netcoreapp2.1\InClassAlgorithmsD1.AssemblyInfoInputs.cache
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\obj\Debug\netcoreapp2.1\InClassAlgorithmsD1.AssemblyInfo.cs
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\obj\Debug\netcoreapp2.1\InClassAlgorithmsD1.dll
+C:\Users\Shirley\Desktop\PRGRM\RandomDataGenerator-master\InClassAlgorithmsD1\obj\Debug\netcoreapp2.1\InClassAlgorithmsD1.pdb
